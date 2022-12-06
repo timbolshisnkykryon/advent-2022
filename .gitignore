@@ -5,6 +5,8 @@
 
 .idea/vcs.xml
 
+.idea
+
 utils/__pycache__/input.cpython-39.pyc
 
 utils/__pycache__/output.cpython-39.pyc
