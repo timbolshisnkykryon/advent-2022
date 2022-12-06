@@ -13,3 +13,7 @@ utils/__pycache__/timer.cpython-39.pyc
 
 config.py
 *.pyc
+
+*.iml
+
+*.xml
