@@ -4,7 +4,7 @@ from utils.timer import timer, dads_timer
 from utils.input import *
 from utils.output import *
 
-DAY = 7
+DAY = 9
 
 
 @timer
